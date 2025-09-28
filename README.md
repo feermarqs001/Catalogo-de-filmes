@@ -18,5 +18,5 @@ Uma simples aplicação de console (Command-Line Interface) construída com Node
 2.  Clone o repositório e navegue até a pasta do projeto.
 3.  Execute:
     ```bash
-    node aula.js
+    node catalogodeFilmes.js
     ```
